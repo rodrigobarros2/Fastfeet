@@ -1,26 +1,3 @@
-<h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
-</h1>
-
-<h3 align="center">
-    <img alt="GoStack" src=".github/fastfeet-logo.png" width="200px" />
-</h3>
-
-<blockquote align="center">“Don't wait to plant, just be patient to harvest!”</blockquote>
-
-<p align="center">
-  <a href="#bulb-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-install">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#boom-result">Result</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
-</p>
-
-## :warning: Challenge correction:
-
-In mobile development, i used my own cell phone:
-- DEVICE -> galaxy j5
-- ANDROID_VERSION -> 6.0.1
-
 ## :bulb: About
 
 <p>In this project, a complete stack was developed, where we used:</p>
